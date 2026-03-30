@@ -1,3 +1,2 @@
 Curso: Ciências da computação
-Edvaldo Alves Da Silva Filho
-Tópicos essências para programação
+Respondendo a lista de exercícios do GitHub

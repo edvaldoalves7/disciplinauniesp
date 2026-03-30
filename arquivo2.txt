@@ -3,9 +3,12 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" context="width=device-width, initial-sclae=1,0">
-	<tiltle>Teste1</title>
+	<tiltle>Doucument</title>
 </head>
 <body>
 
+	<h1>Lista de exercícios</h1>
+	<h2>Trabalhando com GItHub</h2>
+	<h3>Clonando um repositório</h3>
 </body>
 </html>
